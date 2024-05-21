@@ -287,6 +287,7 @@ void loop() {
 }
 
 
+
 ## Wearable Device Code (Example Outline)
 
 #include <Arduino.h>
