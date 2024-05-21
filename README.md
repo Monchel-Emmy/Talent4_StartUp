@@ -32,3 +32,6 @@ interventions
 
 # requirements needed to accomplish and solve the addressed problem
 
+1.ip68 waterproof
+
+
